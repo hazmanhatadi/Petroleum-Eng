@@ -5,12 +5,6 @@
 # Innocentia Ukkana - 101317070 #
 # Intan Umull M. Sary - 101317104 #
 
-######################################################################################
-# Thanks to = Dewi Kusumaningtyas, Nevada Saga S (PE 16), kelompok 16 for discussion #
-######################################################################################
-
-
-
 from __future__ import division
 
 import matplotlib.pyplot as plt
@@ -19,7 +13,6 @@ import pandas as pd
 import sys
 from scipy.sparse.linalg import gmres
 # np.set_printoptions(threshold=sys.maxsize)
-
 
 
 ##################################################################
