@@ -1,9 +1,4 @@
-##################################################################
-# Kelompok 19 #
-# Hazman Hatadi - 101317004 #
-# Hana Khayyirah H - 101317024 #
-# Innocentia Ukkana - 101317070 #
-# Intan Umull M. Sary - 101317104 #
+#
 
 from __future__ import division
 
