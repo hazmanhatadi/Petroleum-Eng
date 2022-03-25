@@ -1,8 +1,3 @@
-#Hazman Hatadi_101317004
-#Hana Khayyirah H_101317024
-#Innocentia Ukkana_101317070
-#Intan Umull Magfira_101317104
-
 import numpy as np
 import matplotlib.pyplot as plt
 
